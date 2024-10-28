@@ -68,5 +68,6 @@
     "version": "gulp version",
     "watch": "gulp watch",
     "webserver": "gulp webserver"
-  }
+  },
+  "types": "./src/index.d.ts"
 }
